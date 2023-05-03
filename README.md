@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hoshang golzar</h1>
+<h1 align="center">Hi 👋, I'm houshang golzar</h1>
 <h3 align="center">Statistician and Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golzar-h&label=Profile%20views&color=0e75b6&style=flat" alt="golzar-h" /> </p>
